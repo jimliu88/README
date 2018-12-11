@@ -37,7 +37,7 @@ nlutools 是一系列模型与算法的nlu工具包，提供以下功能：
 调用方式：
 ```
     from nlutools import tools as nlu
-    nlu.getSubsentences('我喜欢在春天去观赏桃花，在夏天去欣赏荷花，在秋天去观赏红叶，但更喜欢在冬天去欣赏雪景。',mode=1)
+    nlu.getSubSentences('我喜欢在春天去观赏桃花，在夏天去欣赏荷花，在秋天去观赏红叶，但更喜欢在冬天去欣赏雪景。',mode=1)
 ```
 
 返回结果
